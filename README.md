@@ -7,7 +7,7 @@ Below is an example of the initial table:
 
 I began by investigating data by grouping it in ways that would help the reporter reach conclusions about stats such as location, valuation, and company size. 
 
-By using SQL aggregate functions, I could extract and organize stats like like the average valuation of startups in each industry:
+By using SQL aggregate functions, I could extract and organize stats like  the average valuation of startups in each industry:
 <br>
 <img width="1158" alt="screen shot 2019-02-21 at 10 28 59 am" src="https://user-images.githubusercontent.com/46868984/53158928-0928a980-35c5-11e9-981d-4a2887099159.png">
 
